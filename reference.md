@@ -1,0 +1,3 @@
+- **Reference ⬇️**
+  - [Video Inspiration](https://youtu.be/LDEDVXSaa6w?si=8MpYrYmaAkwGXp5E)
+  - [Colorizador de Imagen](https://pinetools.com/es/colorizar-imagen)
